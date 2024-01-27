@@ -1,17 +1,14 @@
-MYSQL_HOST=mariadb
-MYSQL_ROOT_PWD=ykarabul42
 MYSQL_USER=yigithankarabulut
+MYSQL_HOSTNAME=mariadb
+MYSQL_ROOT_PASSWORD=ykarabul42
+MYSQL_DB_NAME=wordpress
 MYSQL_PASSWORD=ykarabul42
 
+CRT_KEYOUT=/etc/ssl/mbrettsc.42.fr.key
+CRT_OUT=/etc/ssl/mbrettsc.42.fr.crt
 WP_DATABASE_NAME=wordpress
 WP_DATABASE_USR=yigithankarabulut
 WP_DATABASE_PWD=ykarabul42
-
-REDIS_HOST=redis
-REDIS_PWD=ykarabul42
-
-FTP_USR=ykarabul
-FTP_PWD=ykarabul42
 
 DOMAIN_NAME=localhost
 
