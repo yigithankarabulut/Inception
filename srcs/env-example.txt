@@ -4,8 +4,9 @@ MYSQL_ROOT_PASSWORD=ykarabul42
 MYSQL_DB_NAME=wordpress
 MYSQL_PASSWORD=ykarabul42
 
-CRT_KEYOUT=/etc/ssl/mbrettsc.42.fr.key
-CRT_OUT=/etc/ssl/mbrettsc.42.fr.crt
+CRT_KEYOUT=/etc/ssl/ykarabul.42.fr.key
+CRT_OUT=/etc/ssl/ykarabul.42.fr.crt
+
 WP_DATABASE_NAME=wordpress
 WP_DATABASE_USR=yigithankarabulut
 WP_DATABASE_PWD=ykarabul42
@@ -19,4 +20,3 @@ WP_ADMIN_EMAIL=ykarabul@student.42kocaeli.com
 WP_USR=yigithankarabulut
 WP_PWD=ykarabul42
 WP_EMAIL=yigithannkarabulutt@gmail.com
-
